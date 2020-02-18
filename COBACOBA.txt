@@ -1,1 +1,2 @@
 nama : alex
+alamat : surabaya

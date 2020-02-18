@@ -1,4 +1,4 @@
 Nama : alex
-kelas : 9
-umur : 15 tahun
-hobby : jalan
+kelas : 12
+umur : 25 tahun
+hobby : makan

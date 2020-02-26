@@ -1,0 +1,7 @@
+1. ahad
+2. senin
+3. selasa
+4. rabu
+5. kamis
+6. jumat
+7. sabtu

@@ -1,1 +1,3 @@
 hari : sunday
+bulan : februari
+tahun : 2020
